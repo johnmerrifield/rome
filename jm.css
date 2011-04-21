@@ -1,0 +1,46 @@
+body {
+	margin:0; padding:0;
+}
+body {
+	background: #C0C0C0  0 0 no-repeat fixed;
+}
+
+h5 {
+	text-align:center; font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px; font-weight: normal; text-transform: lowercase; 
+	font-style: normal; line-height: 1em; margin-top: .5em; margin-bottom: .33em
+}
+h6 {
+	text-align: center; font-weight: normal; text-transform: lowercase; 
+	line-height: 1em; margin-top: .33em; margin-bottom: .5em
+}
+p {
+	margin:0 1em 1em;
+}
+div.content a:link {
+	color:#FF9;
+}
+div.content a:visited {
+	color:#CC9;
+}
+div.content a:hover {
+	color:#FF0;
+}
+
+image#mast {
+	float:left; margin:50px 0 0 0; border:10px solid #000;: 0; border-bottom: 3px solid #FFFF;
+}
+
+}
+div.masthead {
+  position: absolute; margin:0; top:0px; right: 60px; left: 155px; padding: 21px;
+}
+
+div.content {
+	background:  #000 0 0 no-repeat fixed;
+}
+div.content {
+	position:absolute; top:300px; right: 60px; left: 175px; padding: 40px 0 0 0;
+	color: #FFC; font:25px rockwell condensed, sans-serif;
+ 	border:6px solid #FFF;
+}
