@@ -20,9 +20,7 @@ p {
 div.content a:link {
 	color:#FF9;
 }
-div.content a:visited {
-	color:#CC9;
-}
+
 div.content a:hover {
 	color:#FF0;
 }
