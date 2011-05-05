@@ -2,9 +2,10 @@ body {
 	margin:0; padding:0;
 }
 body {
-	background: #C0C0C0  0 0 no-repeat fixed;
+	background: #C0C0C0  0 0 no-repeat fixed; 
+	
 }
-
+a:link {color: #FFC;}
 h5 {
 	text-align:center; font-family: Arial, Helvetica, sans-serif; 
 	font-size: 12px; font-weight: normal; text-transform: lowercase; 
@@ -20,7 +21,9 @@ p {
 div.content a:link {
 	color:#FF9;
 }
-
+div.content a:visited {
+	color:#8000D0;
+}
 div.content a:hover {
 	color:#FF0;
 }
